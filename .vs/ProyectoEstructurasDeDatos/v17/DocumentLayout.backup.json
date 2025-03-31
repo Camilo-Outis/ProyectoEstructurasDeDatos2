@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9973D9-99A5-42AF-98A1-ADF23B386603}|ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos.vcxproj|C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\Estadio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C9973D9-99A5-42AF-98A1-ADF23B386603}|ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos.vcxproj|solutionrelative:ProyectoEstructurasDeDatos\\Src\\Estadio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9973D9-99A5-42AF-98A1-ADF23B386603}|ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos.vcxproj|C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\NodoAvl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C9973D9-99A5-42AF-98A1-ADF23B386603}|ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos.vcxproj|solutionrelative:ProyectoEstructurasDeDatos\\Src\\NodoAvl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9973D9-99A5-42AF-98A1-ADF23B386603}|ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos.vcxproj|C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C9973D9-99A5-42AF-98A1-ADF23B386603}|ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos.vcxproj|solutionrelative:ProyectoEstructurasDeDatos\\Src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodoAvl.cpp",
+              "DocumentMoniker": "C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\NodoAvl.cpp",
+              "RelativeDocumentMoniker": "ProyectoEstructurasDeDatos\\Src\\NodoAvl.cpp",
+              "ToolTip": "C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\NodoAvl.cpp",
+              "RelativeToolTip": "ProyectoEstructurasDeDatos\\Src\\NodoAvl.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T18:50:58.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estadio.cpp",
+              "DocumentMoniker": "C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\Estadio.cpp",
+              "RelativeDocumentMoniker": "ProyectoEstructurasDeDatos\\Src\\Estadio.cpp",
+              "ToolTip": "C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\Estadio.cpp",
+              "RelativeToolTip": "ProyectoEstructurasDeDatos\\Src\\Estadio.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T18:49:34.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\elfod\\Desktop\\RepositorioEstructuras\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\Main.cpp",
+              "RelativeDocumentMoniker": "ProyectoEstructurasDeDatos\\Src\\Main.cpp",
+              "ToolTip": "C:\\Users\\elfod\\source\\repos\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\Main.cpp*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\ProyectoEstructurasDeDatos\\ProyectoEstructurasDeDatos\\Src\\Main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T18:39:25.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
